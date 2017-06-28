@@ -1,0 +1,26 @@
+# Jekyll configuration for jaan.janesmae.com
+
+# Author
+author: Jaan Janesmae
+tagline: "This is probably not the Jaan you are looking for. Move along!"
+email: jaan@janesmae.com
+
+# General site settings
+url: http://jaan.janesmae.com
+permalink: /posts/:year/:month/:title.html
+relative_permalinks: false
+lsi: false
+
+# Exclude some files from being published on the website
+exclude:
+  - CNAME
+  - README.md
+  - LICENSE.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Include some Gems
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
