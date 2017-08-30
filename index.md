@@ -1,5 +1,3 @@
-# jaan.janesmae.com
-
 <div>
 	<h2>Blog Posts</h2>
 	<ul>
