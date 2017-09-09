@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<p class="meta">
+    Last update: {{ page.date | date: "%B %d, %Y" }}
+</p>
+
+<h1 class="title">{{ page.title }}</h1>
+
+<div id="post">
+    {{ content }}
+</div>
+
+{% if page.footer %}
+    {% include content_improve.html %}
+    {% include content_tags.html %}
+{% endif %}
+
+{% if page.github %}
+    {% include content_github.html %}
+{% endif %}

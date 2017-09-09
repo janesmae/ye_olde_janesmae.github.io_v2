@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/janesmae
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jaan.janesmae.com
+  * I am janesmae (https://keybase.io/janesmae) on keybase.
+  * I have a public key with fingerprint 1FB9 6D1F 8020 61CD 868E  D778 0A56 8007 6D55 63BC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.23"
+        },
+        "key": {
+            "eldest_kid": "0101330d9a400680cd32bef138700b702178c737249ea0428326c7e08f55ec93f8cb0a",
+            "fingerprint": "1fb96d1f802061cd868ed7780a5680076d5563bc",
+            "host": "keybase.io",
+            "key_id": "0a5680076d5563bc",
+            "kid": "0101330d9a400680cd32bef138700b702178c737249ea0428326c7e08f55ec93f8cb0a",
+            "uid": "10dde63c98245953ef423c5e7a51da00",
+            "username": "janesmae"
+        },
+        "service": {
+            "hostname": "jaan.janesmae.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1445737411,
+    "expire_in": 157680000,
+    "prev": "08d8249a8d4355fefe9c485b37d4f7159a12853c1d02d1566df7e02d109d7670",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkn1MVWUcxy+ICnfKlUyhIWBnobxcbs95PwcGXcdIESQQoS3Ky3l5zuXKfeOe
+y80LvRgCii1DS4yUJmPaxnQaUMYuLrLmkARyMLSAVUCBWaMEJBpB5xjWWv/237Pz
+fH7f3/f7PU/t2hUarZ82/8BqW57Q4ffFHV6Tr8e7yhHeIXqRxHJEsFqg3a2e7JwN
+IolIMfTynAwNFsdmu0OEhn3y5mVGj3igS7Y47AoFDIwBw5GX9SqvTkOrCGW3qdgi
+qrcoQHEciCxHAEAxQBBxjIcSijM0ADwNMJRmBBqnMYKFHCAwBscogYaAkUgSCiwu
+MQIPOGWhZLGbocvpsqgWEVTiWUpEJQZggEIFkaEYKNI0AzhSWQJoSiRJCucFZbDI
+Ibv/FQZ54NT0l73/8v+z79IHcigQRUjhAstgBMmSOJQIDBdISHMkKnIAqKAMXcvF
+7+PsULZxUC1V+eqxCFAtVk3yN8HZDQ8xg+CwKQJOl8PtEBxW5brI7XYmqtNur1PF
+X4S8aVnIxFvsotIlom/45yeiCiq4Lao0ShCkkotAUT0C9zstLmiyqARJq0UBoO6B
+HrUhRlTCsBwjEjhJSlCCrEAwJI/TIiHRKMlyKMaQuICKABNRkqJESelHOQJWpCla
+jSzDErsDScQwxShnVjRli9nOuUtdSvIa/00BGj+tZtVKf/WZarRB6x6+3eZx3WJy
+rKv+bsloGzGVeYUObkk3jm4r3zLCGlO3Nvp2lC5oT27t7dLVbGq+/tLFPWFUYmNy
+5ujxxcqa3q/S46b8p5f03qDWO77fXkiL+OjNssB5bnqwZIdmchJs/MFPivxstiq2
+3Tg0FZ+TtZt95YYh0jrRWIteSNWbi9aNncusPDEd9Ufake36kZRHm4LOLch998Vv
+TmZ9PNOeEZX73EJf+/kRec8HZe/NGw3chupXF7PzPUSM6dPXdrVNjYfsXIrs8KxB
+J1uY8LmcumfLTn0Z1t9TcS3fNtYQUv01+vuQ+S3v3XDjzZhV/capq593X5oZygyZ
+WVn5vkk7EHfsyorxiIO/iid+Wu94vM6X0Rr29OHe5AkZGV6wfnuYj9GV5DXN+ntm
+faeN23xnnunce0micy4nbZmwxQcVtOysrehLOMaFpBeDNaeHquKSxPmz5icatnv2
+r+8P6NKbg1YnJcCApV1PIoHHW1KDdaGuiiHEWjCsu/+8Zu722Tznj74byXnp5N7r
+0U9p+eHgrvPxVYWPvd4jDLxTeyt+vGHscnWBjTrVtDbljQ+v3ZPqw8HRjEKd8WBP
+ys15272B/sGI7IvdgYcunInfaC10zdlvNXfebs0t7IyOOpTdseHnX6avukL9ogMS
+Ynt3u9NY/9A8U259pLv6gFUflzzo/f4TY7f+aNbbj9S92/bdqPAn
+=A3+5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/janesmae
+
+==================================================================

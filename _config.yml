@@ -1,17 +1,30 @@
-# Jekyll configuration for jaan.janesmae.com
+# General Jekyll Config
+highlighter: rouge
 
-# Author
 author: Jaan Janesmae
 tagline: "This is probably not the Jaan you are looking for. Move along!"
 email: jaan@janesmae.com
 
-# General site settings
 url: http://jaan.janesmae.com
 permalink: /posts/:year/:month/:title.html
 relative_permalinks: false
-lsi: false
 
-# Exclude some files from being published on the website
+lsi: false
+branch: master
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+github:
+  repository_nwo: "janesmae/janesmae.github.io"
+  owner_url: "https://github.com/janesmae"
+  owner: "janesmae"
+  repository_url: "https://github.com/janesmae/janesmae.github.io"
+
+# Google Analytics key, leave blank to ignore
+google_analytics: UA-36904074-1
+
 exclude:
   - CNAME
   - README.md
@@ -19,8 +32,3 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
-
-# Include some Gems
-gems:
-  - jekyll-sitemap
-  - jekyll-feed
