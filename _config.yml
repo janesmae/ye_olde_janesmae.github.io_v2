@@ -12,7 +12,7 @@ relative_permalinks: false
 lsi: false
 branch: master
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
